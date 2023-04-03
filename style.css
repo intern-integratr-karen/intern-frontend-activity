@@ -72,8 +72,9 @@ margin-bottom: 5px;
   text-decoration: none; 
 }
 .input-group span{
-  position: absolute;
+  position: relative;
   bottom: 12px;
   right: 17px;
+  font-size: 14px;
   color: red;
 }
